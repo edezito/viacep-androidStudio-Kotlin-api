@@ -1,0 +1,9 @@
+<resources>
+    <color name="fundo_escuro">#0a0a0a</color>
+    <color name="fundo_card">#121212</color>
+    <color name="linha_alaranjada">#ff9f43</color>
+    <color name="texto_claro">#f1f1f1</color>
+    <color name="hover_alaranjado">#ffd180</color>
+    <color name="borda_dourada">#ff9f43</color>
+    <color name="destaque">#ff6f00</color>
+</resources>
